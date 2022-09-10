@@ -45,8 +45,6 @@ header-includes:
   - \floatplacement{figure}{H} # keep figures where there are in the text
 ---
 
-# Лабораторная работа  №1
-
 # Выполнил работу:
 Волков Фрол НПИбд-01-19
 
